@@ -9,9 +9,9 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Alexander Malaev"]
   spec.email         = ["am@malaev.net"]
 
-  spec.summary       = %q{TODO: Write a short summary, because Rubygems requires one.}
-  spec.description   = %q{TODO: Write a longer description or delete this line.}
-  spec.homepage      = "TODO: Put your gem's website or public repo URL here."
+  spec.summary       = %q{Small library to generate random lng/lat.}
+  spec.description   = %q{This library is planned to extend FFaker library with gis randoms.}
+  spec.homepage      = "https://github.com/spscream/ffaker_postgis_point"
   spec.license       = "MIT"
 
   # Prevent pushing this gem to RubyGems.org by setting 'allowed_push_host', or
